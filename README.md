@@ -38,7 +38,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
 **Audio & Video Editing**
 
-<img alt="Adobe Premiere Pro" width="30px" src="/Assets/premier.png"/><img alt="Davinci Resolve" width="30px" src="/Assets/premier.png"/>|<img alt="Adobe After Effects" width="30px" src="/Assets/after-effects.png"/>|<img alt="Sony Vegas" width="30px" src="/Assets/vegas.png"/>|<img alt="Adobe Audition" width="30px" src="/Assets/audition.png"/>|<img alt="Audacity" width="30px" src="/Assets/Audacity_Logo_nofilter.svg"/>
+<img alt="Adobe Premiere Pro" width="30px" src="/Assets/premier.png"/>|<img alt="Davinci Resolve" width="30px" src="/Assets/davinci.png"/>|<img alt="Adobe After Effects" width="30px" src="/Assets/after-effects.png"/>|<img alt="Sony Vegas" width="30px" src="/Assets/vegas.png"/>|<img alt="Adobe Audition" width="30px" src="/Assets/audition.png"/>|<img alt="Audacity" width="30px" src="/Assets/Audacity_Logo_nofilter.svg"/>
 |--|--|--|--|--|
 
  **Connect with Me**
