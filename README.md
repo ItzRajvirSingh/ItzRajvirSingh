@@ -10,7 +10,7 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 
 ---
 
- ## My Skills <img alt="Computer" width="40px" src="/Assets/desktop.png"/>
+ ## My Skills <img alt="computer" width="40px" src="/Assets/desktop.png"/>
 
  **Languages**
  
