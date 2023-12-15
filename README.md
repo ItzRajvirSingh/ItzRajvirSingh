@@ -46,12 +46,3 @@ I'm an enthusiastic Techie and a Developer who loves to contribute to the Openso
 [<img align="left" alt="Rajvir Singh" width="30px" src="https://ItzRajvirSingh.github.io/assets/images/logo.png" />]  [<img align="left" alt="LinkedIn - Rajvir Singh" width="30px" src="/Assets/linkedin.png" />](https://www.linkedin.com/in/rajvir)   [<img align="left" alt="Email -Rajvir Singh" width="30px" src="/Assets/gmail.png" />](mailto:itzrajviir@gmail.com)
 
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ItzRajvirSingh&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: radical)"
-  />
-  <source
- 
-  />
